@@ -1,4 +1,2 @@
-Copyright (C) 2018 - The LineageOS Project
-
-Common device tree for Xiaomi SDM845 based devices
+Device tree for Xiaomi K20 Pro
 ==============
