@@ -81,6 +81,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/gpio-keys:system/usr/keylayout/gpio-keys.kl \
     $(LOCAL_PATH)/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
     $(LOCAL_PATH)/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl
+    
+# Lights
+PRODUCT_PACKAGES += \
+    android.hardware.light@2.0-service.xiaomi_sm8150
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
