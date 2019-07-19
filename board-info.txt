@@ -1,0 +1,1 @@
+require version-baseband=1.0.c3-36.0978-0708_2219_e2e3074 
